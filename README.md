@@ -3,7 +3,7 @@
 ------
 
 
-除了您现在看到的这个 Cmd Markdown 在线版本，您还可以前往以下网址下载：
+django + graphql实现前后端分离。支持jwt登录效验，以及resolver权限绑定。
 
 ### 一、安装依赖
 
