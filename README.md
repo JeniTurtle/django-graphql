@@ -22,8 +22,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'jouryu_django',
         'USER': 'root',
-        'PASSWORD': 'Jour123456Yu!',
-        'HOST': '192.168.0.15',
+        'PASSWORD': '!',
+        'HOST': '127.0.0.1',
         'OPTIONS': {
             'init_command': 'SET default_storage_engine=INNODB;'
         }
